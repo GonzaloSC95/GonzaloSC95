@@ -1,5 +1,5 @@
 # 🚀 About Me
-- 🔍 I'm currently looking for a job as a Software Engineer.
+- 🔍 Always looking for new challenges and opportunities as a Software Engineer.
 - 👨‍💻 I have 4 years of experience in Python and Java.
 - 📚 Always learning new technologies.
 
