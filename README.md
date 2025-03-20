@@ -29,8 +29,4 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GonzaloSC95&layout=compact&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloSC95&layout=compact&theme=dark)
-
 
