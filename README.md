@@ -14,7 +14,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GonzaloSC95&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloSC95&layout=compact&theme=dark)
 
 
