@@ -1,6 +1,6 @@
 # 🚀 About Me
 - 🔍 Always looking for new challenges and opportunities as a Software Engineer.
-- 👨‍💻 I have 4 years of experience in Python and Java.
+- 👨‍💻 I have +4 years of experience in Python and Java.
 - 📚 Always learning new technologies.
 
 ## 🌐 Socials
